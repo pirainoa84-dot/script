@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+#Add ssh connections
+
 SESSION="k8s"
 
 MASTER_HOST=${MASTER_HOST:-"master-host"}
